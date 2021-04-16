@@ -1,8 +1,6 @@
-# 🚨 Don't change the code below 👇
-age = input("What is your current age? ")
-# 🚨 Don't change the code above 👆
 
-#Write your code below this line 👇
+age = input("What is your current age? ")
+
 life_time= 90
 new_age=int(age)
 days_left=(life_time-new_age)*365
