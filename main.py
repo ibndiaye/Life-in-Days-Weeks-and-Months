@@ -12,7 +12,7 @@ weeks_left=(life_time-new_age)*52
 months_left= (life_time-new_age)*12
 # print(months_left)
 
-print(f"You have {days_left} days, {weeks_left} weeks and {months_left} months left if you were to live till 90.")
+print(f"You have {days_left} days, {weeks_left} weeks and {months_left} months left if you were to live till {life_time}.")
 
 
 
